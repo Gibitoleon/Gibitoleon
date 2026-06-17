@@ -102,7 +102,7 @@ DevOps Practices
 Learn Relentlessly.
 Build Consistently.
 Improve Continuously.
-## 🤝 Connect With Me
+
 
 
 
