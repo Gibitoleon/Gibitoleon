@@ -1,18 +1,11 @@
 <!-- ===================== HEADER BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Gibitoleon&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Cloud%20Explorer&descSize=22&descAlignY=65"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Gabriel Leon</h1>
 
 <h3 align="center">
 Software Developer exploring AI, Machine Learning, Cloud Computing, and Backend Engineering.
 </h3>
-
-<!-- ===================== PROFILE VIEWS ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gibitoleon&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
