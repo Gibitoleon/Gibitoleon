@@ -56,20 +56,6 @@ I breathe backend, play with cloud, and geek out on ML — but above all, I buil
 
 ---
 
-## 🔥 Featured Projects
-
-<!-- Replace the usernames/repo names with your own pinned repos -->
-<div align="center">
-  <a href="https://github.com/Gibitoleon/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gibitoleon&repo=awesome-project&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Gibitoleon/another-cool-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gibitoleon&repo=another-cool-repo&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
