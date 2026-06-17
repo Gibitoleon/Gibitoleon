@@ -1,94 +1,123 @@
+<!-- ===================== HEADER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Gibitoleon&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Cloud%20Explorer&descSize=22&descAlignY=65"/>
+</p>
 
-# Hi there 👋, I'm Gabriel
+<h1 align="center">Hi 👋, I'm Gabriel Leon</h1>
+
+<h3 align="center">
+Software Developer exploring AI, Machine Learning, Cloud Computing, and Backend Engineering.
+</h3>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gibitoleon&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-I'm an AI Engineer and Machine Learning Enthusiast passionate about building intelligent systems that solve real-world problems.
+I’m a software developer passionate about building scalable systems and exploring intelligent technologies.
 
-I enjoy combining Artificial Intelligence, Backend Engineering, and Cloud Technologies to create scalable applications that are both efficient and impactful.
+I enjoy working across **Backend Development, Cloud Computing, and Machine Learning fundamentals**, while continuously improving my engineering skills through real-world projects.
 
-My interests include:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ☁️ Cloud & DevOps
-- 🏗️ Microservices Architecture
-- 📊 Data Engineering
-- 🌐 Full-Stack Development
-
-I believe in continuous learning and constantly challenge myself by exploring new technologies, frameworks, and engineering practices.
+- 🔭 Currently working on backend & cloud-based applications  
+- 🌱 Learning Machine Learning, AWS, and Microservices Architecture  
+- 💡 Interested in AI, scalable systems, and distributed systems  
+- ⚡ Always learning and building projects that solve real problems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- SQL
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Backend Development
-- Node.js
-- Express.js
-- REST APIs
+### MERN Stack
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-### Frontend Development
-- React.js
-- HTML5
-- CSS3
+### AI / ML Basics
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-### Database Technologies
-- MongoDB
-- MySQL
-
-### AI & Machine Learning
-- Scikit-Learn
-- Pandas
-- NumPy
-- TensorFlow
-- PyTorch
-
-### DevOps & Cloud
-- Docker
-- GitHub Actions
-- Linux
-- AWS
+### Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 ### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Machine Learning
-- MLOps
-- Distributed Systems
-- Kubernetes
-- Large Language Models (LLMs)
-
----
-
-## 🎯 What I'm Working On
-
-- AI-powered applications
-- Machine Learning solutions
-- Backend APIs
-- Cloud-native systems
-- End-to-end software projects
+## 🎯 Current Focus
+Backend Development
+Cloud Computing (AWS)
+Machine Learning Fundamentals
+Microservices Architecture
+DevOps Practices
 
 ---
 
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gibitoleon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gibitoleon&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gibitoleon&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gibitoleon&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 GitHub Trophies
 
-I'm always interested in collaborating on AI, Machine Learning, Backend Engineering, and Open Source projects.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gibitoleon&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-> "Building intelligent solutions one commit at a time."
+---
+
+## 💭 Philosophy
+Learn Relentlessly.
+Build Consistently.
+Improve Continuously.
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: Your LinkedIn link  
+- 🌐 Portfolio: Your website  
+- 📧 Email: Your email  
+
+---
+
+<!-- ===================== FOOTER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f0c29"/>
+</p>
