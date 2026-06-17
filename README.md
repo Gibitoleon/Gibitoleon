@@ -111,11 +111,7 @@ Build Consistently.
 Improve Continuously.
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: Your LinkedIn link  
-- 🌐 Portfolio: Your website  
-- 📧 Email: Your email  
 
----
 
 <!-- ===================== FOOTER BANNER ===================== -->
 <p align="center">
