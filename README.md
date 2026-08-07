@@ -40,15 +40,14 @@ I breathe backend, play with cloud, and geek out on ML — but above all, I buil
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-lovat-nine.vercel.app/api?username=gibitoleon&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-frontend-pink.vercel.app/api?username=gibitoleon&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended-frontend-lovat-nine.vercel.app/api/top-langs/?username=gibitoleon&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-pink.vercel.app/api/top-langs/?username=gibitoleon&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gibitoleon&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-
 
 ---
 
