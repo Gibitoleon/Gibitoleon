@@ -33,17 +33,22 @@ I breathe backend, play with cloud, and geek out on ML — but above all, I buil
 | **Tools**          | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gibitoleon&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gibitoleon&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FF6B6B" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gibitoleon&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B" />
-</div>
+<p align="center">
+  <img src="https://github-stats-extended-frontend-lovat-nine.vercel.app/api?username=gibitoleon&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-stats-extended-frontend-lovat-nine.vercel.app/api/top-langs/?username=gibitoleon&layout=compact&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gibitoleon&theme=radical&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FF6B6B&currStreakLabel=FF6B6B" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gibitoleon&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
 
 ---
 
