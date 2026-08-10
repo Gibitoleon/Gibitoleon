@@ -36,7 +36,7 @@ I breathe backend, play with cloud, and geek out on ML — but above all, I buil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-pink.vercel.app/api/streak?user=gibitoleon&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gibitoleon&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
